@@ -32,5 +32,7 @@ The script generates potential distribution plots and compares the calculated ca
 ## ✍️ Author
 * **Ali Naghiloo**
 
+## ⚠️ A Note on This Implementation
+This project is a functional demonstration of the Finite Difference Method for the specified electrostatic problem. While the results show good agreement with reference values, the code is intended for educational purposes and may not be fully optimized. There may be further areas for improvement or validation beyond what is currently implemented.
 ---
 *This project is licensed under the MIT License.*
